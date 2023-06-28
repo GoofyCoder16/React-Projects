@@ -1,5 +1,5 @@
 import { useState } from "react"
-export default function c_form({lif}){
+export default function C_form({lif}){
     const [text,settext]=useState("")
 
     function addf(e){
